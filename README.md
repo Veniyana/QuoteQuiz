@@ -1,6 +1,6 @@
 # Quote Quiz
 
-##Description
+## Description
 Single page application (SPA) with Vue representing the famous quote
 quiz where the user will see a quote with 3 people as answers and have to pick
 the correct one.
